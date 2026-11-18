@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Pravidla](README.md)
+* [Hlavní Pravidla](README.md)
